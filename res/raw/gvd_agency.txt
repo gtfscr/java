@@ -1,0 +1,20 @@
+agency_id,agency_name,agency_url,agency_timezone,agency_lang
+1154,"České dráhy, a.s.",http://www.cd.cz,Europe/Prague,cs
+3189,"ARRIVA vlaky s.r.o.",http://www.arriva.cz,Europe/Prague,cs
+3207,"METRANS Rail s.r.o.",http://www.metransrail.eu,Europe/Prague,cs
+3218,"Jindřichohradecké místní dráhy, a.s.",http://jhmd.cz,Europe/Prague,cs
+3230,"Die Länderbahn GmbH DLB",http://www.laenderbahn.cz,Europe/Prague,cs
+3246,"RegioJet a.s.",http://regiojet.cz,Europe/Prague,cs
+3288,"GW Train Regio a.s.",http://www.gwtr.cz,Europe/Prague,cs
+3332,"KŽC Doprava, s.r.o.",http://www.kzc.cz,Europe/Prague,cs
+3366,"MBM rail s.r.o.",http://www.mbmr.cz,Europe/Prague,cs
+3407,"CityRail, a.s.",http://www.cityrail.cz,Europe/Prague,cs
+3559,"AŽD Praha, s.r.o.",http://www.azd.cz,Europe/Prague,cs
+3616,"Leo Express s.r.o.",http://www.leoexpress.com,Europe/Prague,cs
+3642,"Railway Capital a.s.",http://railwaycapital.cz,Europe/Prague,cs
+3644,"Slezské zemské dráhy, o.p.s.",http://www.osoblazsko.com,Europe/Prague,cs
+3681,"KPT rail s.r.o.",http://www.kptrail.cz,Europe/Prague,cs
+3725,"Leo Express Tenders s.r.o.",http://www.leoexpress.com,Europe/Prague,cs
+3736,"Die Länderbahn CZ s.r.o.",http://www.laenderbahn.cz,Europe/Prague,cs
+3752,"RegioJet ÚK a.s.",http://www.regiojet.cz,Europe/Prague,cs
+5400,"nabídková trasa",http://szdc.cz,Europe/Prague,cs
