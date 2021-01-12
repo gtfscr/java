@@ -3,7 +3,6 @@ package com.github.gtfscr;
 import java.io.InputStream;
 import java.util.*;
 import javax.xml.parsers.*;
-
 import org.w3c.dom.*;
 
 public class GVDParser {
@@ -141,9 +140,13 @@ public class GVDParser {
 		}
 
 		boolean stopYes = false;
+		if (!pickup1 && tat.contains("0002")) {
+			return;
+		}
 		if (end || seq == 1 || tat.contains("0001") || tat.contains("0030")
-				|| tat.contains("0032")) {
-
+				|| tat.contains("0031") || tat.contains("0032")) {
+			stopYes = true;
+		} else if (!time[0].equals(time[1])) {
 			stopYes = true;
 		}
 		if (pickup1 || stopYes) {
