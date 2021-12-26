@@ -1,5 +1,7 @@
 # java
 
+# Kdysi to snad fungovalo, ted uz to nefunguje, nepouzivat.
+
 ### GTFSCR
 
  - Zatím převádí jen gvd
